@@ -1,7 +1,3 @@
-Here’s a description for your repository that includes all the models and techniques you've implemented:
-
----
-
 ## Machine Learning Algorithms Repository
 
 This repository contains comprehensive Python implementations of various machine learning algorithms, focusing on both regression and classification tasks. Each model is accompanied by code, and minimal explanations, aimed at developers and data scientists who want to quickly reference or apply these algorithms in their own projects. The repository is structured to showcase how each algorithm is trained, used for prediction, and evaluated for performance.
@@ -49,7 +45,7 @@ This repository contains comprehensive Python implementations of various machine
 
 - Clone the repository:
   ```bash
-  git clone https://github.com/your-username/machine-learning-algorithms.git
+  git clone https://github.com/Volcann/Algorithms.git
   ```
 - Navigate to any algorithm's notebook and run the code blocks to see the results.
 
